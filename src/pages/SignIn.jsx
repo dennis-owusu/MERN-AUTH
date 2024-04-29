@@ -101,3 +101,9 @@ const SignIn = () => {
 };
 
 export default SignIn;
+
+
+/*git remote add origin https://github.com/dennis-owusu/MERN-AUTH.git
+git branch -M main
+git push -u origin main
+*/
